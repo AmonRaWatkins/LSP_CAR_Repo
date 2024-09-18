@@ -1,0 +1,9 @@
+This is a sample file for testing the WordCounter program. It contains a mixture of words, punctuation, numbers, and newlines. 
+
+The quick brown fox jumps over the lazy dog. 100 
+
+Let's see how many times each word appears in this file. 
+
+And this is another line with some more words. 
+
+This is the end of the file.
