@@ -14,11 +14,11 @@ public class MapUtilities {
 
         int count = 0;
         for (Map.Entry<String, String> entry1 : map1.entrySet()) {
-            if (map2.containsKey(entry1.getKey()) &&
+            if (map2.containsKey(entry1.getKey()) && // checks if key exists in map2 and if corresponding values are equal
                     map2.get(entry1.getKey()).equals(entry1.getValue())) {
-                count++;
+                count++; //increment
             }
         }
-        return count;
+        return count; //Return total cont of common key/value pairs 
     }
 }
