@@ -25,7 +25,7 @@ public class Book {
 		return ISBN;
 	}
 	
-	public int getYearPublished() {
+	public int  getYearPublished() {
 		return yearPublished;
 	}
 	

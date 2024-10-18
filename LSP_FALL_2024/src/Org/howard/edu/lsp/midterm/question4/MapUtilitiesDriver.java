@@ -1,7 +1,7 @@
 package Org.howard.edu.lsp.midterm.question4;
 
 import java.util.HashMap;
-public class MapUtilitiesDriver {
+public class MapUtilitiesDriver  {
 	public static void main(String[] args) {
         HashMap<String, String> map1 = new HashMap<>();
         map1.put("Alice", "Healthy");

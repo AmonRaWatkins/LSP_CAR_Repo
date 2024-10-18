@@ -3,7 +3,7 @@ package Org.howard.edu.lsp.midterm.question4;
 import java.util.HashMap;
 import java.util.Map;
 
-public class MapUtilities {
+public class MapUtilities  {
 	public static int commonKeyValuePairs(
 			HashMap<String, String> map1,
             HashMap<String, String> map2) {

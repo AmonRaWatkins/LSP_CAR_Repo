@@ -1,6 +1,6 @@
 package Org.howard.edu.lsp.midterm.question1;
 
-public class BookDriver {
+public class BookDriver  {
 	public static void main(String[] args) {
 		Book book1 = new Book("The Great Gatsby", "F. Scott Fitzgerald", "123456789", 1925);
 		Book book2 = new Book("The Great Gatsby", "F. Scott Fitzgerald", "123456789", 1925);

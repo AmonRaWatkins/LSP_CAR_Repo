@@ -1,6 +1,6 @@
 package Org.howard.edu.lsp.midterm.question2;
 
-public class CalculatorDriver {
+public class CalculatorDriver  {
 	public static void main(String[]args) {
 		System.out.println(Calculator.sum(5,10)); //output = 15
 		System.out.println(Calculator.sum(3.5,7.8)); // output = 11.3
